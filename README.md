@@ -19,9 +19,9 @@ A console-based application developed in C++ to simulate a cinema seat booking s
 
 ## How to Run
 1. Compile:
-   g++ filename.cpp -o output  
+   g++ cinema_seat_booking.cpp -o app  
 2. Run:
-   ./output  
+   ./app 
 
 ## Author
 Rahul Kumar
